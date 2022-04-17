@@ -1,0 +1,6 @@
+cache
+snapshots
+vendor
+PrusaSlicer.ini
+PrusaSlicer.ini.bak
+PrusaSlicerGcodeViewer.ini
